@@ -25,6 +25,14 @@ Thumbs.db
 .vscode/
 .vs/
 
+# Visual Studio Code settings
+.vscode/
+/.vscode/
+
+# Visual Studio settings
+.vs/
+/.vs/
+
 # IDEs and editors
 /.idea
 .project
